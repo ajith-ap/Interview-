@@ -154,7 +154,7 @@ opacity: 1;
     margin:0 80px;
    }
     li{
-    margin:0 80px;
+    margin:0 40px;
    }
   }
 
